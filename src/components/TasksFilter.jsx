@@ -1,4 +1,4 @@
-function TasksFilter({ filter, setFilter }) {
+function TasksFilter() {
   return (
     <ul className="filters">
       <li>
