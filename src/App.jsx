@@ -1,7 +1,7 @@
 import './App.css';
 import TaskList from './components/TaskList';
 import NewTaskForm from './components/NewTaskForm';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 const tasks = [
   {
     id: 1,
