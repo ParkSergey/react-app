@@ -20,6 +20,7 @@ function Task({
         <button className="icon icon-edit" aria-label="Edit task"></button>
         <button className="icon icon-destroy" aria-label="Delete task"></button>
       </div>
+      <input type="text" className="edit"/>
     </li>
   );
 }
